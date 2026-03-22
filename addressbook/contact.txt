@@ -1,0 +1,4 @@
+Shree,9902273533,shree@gmail.com
+Kabali,9876543215,kabali@gmail.com
+Bahubali,6543219875,bahubali@gmail.com
+katappa,8796542315,atappa@gmail.com
